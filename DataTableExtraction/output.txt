@@ -1,0 +1,5 @@
+﻿Kiran:::Patna
+Guru:::Shilong
+Shabu:::Jaipur
+Sravu:::Pune
+Amanu:::Mumbai
